@@ -1,4 +1,4 @@
-##👋 Hi, I’m Ivy | @InsightsByIvy
+👋 Hi, I’m Ivy | @InsightsByIvy
 
 ## 💼 About Me:
 I am a former Senior Crypto Specialist with hands-on experience in crypto funding, staking, validator monitoring and sanctions at Kraken Digital Exchange. 
