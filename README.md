@@ -1,6 +1,15 @@
-👋 Hi, I’m Ivy | @InsightsByIvy
+<div align="center">
 
-## About Me:
+# 👋 Hi, I’m Ivy | @InsightsByIvy
+
+</div>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJoeHZscmxubzdzcHNnZGVzZ3QwNWZlYjR5Y2dkZTlnN3A0eWt3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="200"/>
+</div>
+
+
+## 👩‍💻 About Me:
 I am a former Senior Crypto Specialist with hands-on experience in crypto funding, staking, validator monitoring and sanctions at Kraken Digital Exchange. 
 My work in blockchain technology sparked my interest in data analytics, as I wanted to understand what’s happening under the hood: diving into transaction patterns and DeFi activities. 
 This curiosity led me to Data Analytics, where I use SQL and Python to create data-driven insights and visualizations.
@@ -12,9 +21,9 @@ My goal is to leverage data to drive innovation in decentralized technologies an
 - Building interactive dashboards for insightful crypto market analysis
 - Developing Python tools for Web3 data extraction
 
-## Tech Stack:
+## 🛠  Tech Stack:
  - Languages: Python, SQL
- - Data Science & Analytics: Pandas, Data Visualization, Machine Learning
+ - Data Science & Analytics: Pandas, NumPy, Jupyter Notebook, Data Visualization, Machine Learning, MySQL
  - Blockchain Development: Smart Contract Analysis, On-Chain Data Analysis, DeFi Protocols
  
 ## Collaboration
