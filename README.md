@@ -10,16 +10,17 @@
 
 
 ## 👩‍💻 About Me:
-I am a former Senior Crypto Specialist with hands-on experience in crypto funding, staking, validator monitoring and sanctions at Kraken Digital Exchange. 
-My work in blockchain technology sparked my interest in data analytics, as I wanted to understand what’s happening under the hood: diving into transaction patterns and DeFi activities. 
-This curiosity led me to Data Analytics, where I use SQL and Python to create data-driven insights and visualizations.
-I’m passionate about the future of Web3, and as I continue my learning journey with tools like Pandas and exploring Machine Learning, I’m excited to uncover deeper insights into blockchain technology. 
-My goal is to leverage data to drive innovation in decentralized technologies and contribute to the growth of Web3.
+Senior Digital Assets & Payments Specialist (ex-Kraken) transitioning into data analytics, with hands-on experience in crypto and fiat funding, staking, and high-risk transaction analysis.
+Skilled in analysing blockchain transactions, fraud detection, and DeFi trends. Passionate about leveraging data science and machine learning to combat financial crime and drive innovation in decentralized finance.
+
+Dashboard profiles:
+ - [Tableau](https://public.tableau.com/app/profile/ivy.kepiro/vizzes)
+ - [Flipside Crypto](https://flipsidecrypto.xyz/ivy-k/ink-chain-transaction-and-activity-analysis-5HtJbK)
+ - [Streamlit](https://analysing-scam-patterns-in-ethereum-transactions.streamlit.app/)
 
 ## Current Focus:
-- Diving deep into blockchain analytics and on-chain metrics
-- Building interactive dashboards for insightful crypto market analysis
-- Developing Python tools for Web3 data extraction
+- Building Python, SQL, and Tableau skills for blockchain analytics and fraud detection
+- Creating interactive dashboards for Web3 transaction and DeFi insights
 
 ## 🛠  Tech Stack:
  - Languages: Python, SQL
