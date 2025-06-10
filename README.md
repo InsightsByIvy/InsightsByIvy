@@ -14,9 +14,9 @@ Senior Digital Assets & Payments Specialist (ex-Kraken) transitioning into data 
 Skilled in analysing blockchain transactions, fraud detection, and DeFi trends. Passionate about leveraging data science and machine learning to combat financial crime and drive innovation in decentralized finance.
 
 Dashboard profiles:
- - [Tableau](https://public.tableau.com/app/profile/ivy.kepiro/vizzes)
- - [Flipside Crypto](https://flipsidecrypto.xyz/ivy-k/ink-chain-transaction-and-activity-analysis-5HtJbK)
- - [Streamlit](https://analysing-scam-patterns-in-ethereum-transactions.streamlit.app/)
+- <a href="https://public.tableau.com/app/profile/ivy.kepiro/vizzes" target="_blank">Tableau</a>
+- <a href="https://flipsidecrypto.xyz/ivy-k/dashboards" target="_blank">Flipside Crypto</a>
+- <a href="https://analysing-scam-patterns-in-ethereum-transactions.streamlit.app/" target="_blank">Streamlit: Ethereum Scam Patterns</a>
 
 ## Current Focus:
 - Building Python, SQL, and Tableau skills for blockchain analytics and fraud detection
