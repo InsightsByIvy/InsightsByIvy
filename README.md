@@ -24,7 +24,7 @@ Dashboard profiles:
 
 ## 🛠  Tech Stack:
  - Languages: Python, SQL
- - Data Science & Analytics: Pandas, NumPy, Jupyter Notebook, Data Visualisation (Streamlit, Matplotlig, Seaborn, Plotly), Machine Learning (scikit-learn), MySQL
+ - Data Science & Analytics: Pandas, NumPy, Jupyter Notebook, Data Visualisation (Streamlit, Matplotlib, Seaborn, Plotly), Machine Learning (scikit-learn), MySQL
  - Blockchain Development: Smart Contract Analysis, On-Chain Data Analysis, DeFi Protocols
  
 ## Collaboration
