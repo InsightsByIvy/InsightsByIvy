@@ -10,8 +10,7 @@
 
 
 ## 👩‍💻 About Me:
-Senior Digital Assets & Payments Specialist (ex-Kraken) transitioning into data analytics, with hands-on experience in crypto and fiat funding, staking, and high-risk transaction analysis.
-Skilled in analysing blockchain transactions, fraud detection, and DeFi trends. Passionate about leveraging data science and machine learning to combat financial crime and drive innovation in decentralized finance.
+Background in digital assets and payments (ex-Kraken) with hands-on experience in crypto and fiat funding, staking, and high-risk transaction analysis. Currently focused on building data-driven solutions using Python, SQL, and machine learning to analyse complex datasets, detect fraud, and uncover actionable insights. Actively exploring projects in blockchain analytics, DeFi trends, and financial risk modeling.
 
 Dashboard profiles:
 - <a href="https://public.tableau.com/app/profile/ivy.kepiro/vizzes" target="_blank">Tableau</a>
@@ -19,12 +18,13 @@ Dashboard profiles:
 - <a href="https://analysing-scam-patterns-in-ethereum-transactions.streamlit.app/" target="_blank">Streamlit: Ethereum Scam Patterns</a>
 
 ## Current Focus:
-- Building Python, SQL, and Tableau skills for blockchain analytics and fraud detection
-- Creating interactive dashboards for Web3 transaction and DeFi insights
+- Advancing skills in Python, SQL, and Tableau for analytics and visualisation
+- Building interactive dashboards to uncover insights across finance, operations, and emerging tech (Web3)
+- Applying data science to real-world use cases like fraud detection, risk analysis, and behavioural trends
 
 ## 🛠  Tech Stack:
  - Languages: Python, SQL
- - Data Science & Analytics: Pandas, NumPy, Jupyter Notebook, Data Visualization, Machine Learning, MySQL
+ - Data Science & Analytics: Pandas, NumPy, Jupyter Notebook, Data Visualisation (Streamlit, Matplotlig, Seaborn, Plotly), Machine Learning (scikit-learn), MySQL
  - Blockchain Development: Smart Contract Analysis, On-Chain Data Analysis, DeFi Protocols
  
 ## Collaboration
