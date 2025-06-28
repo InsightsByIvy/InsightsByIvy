@@ -14,6 +14,7 @@ Background in digital assets and payments (ex-Kraken) with hands-on experience i
 
 Dashboard profiles:
 - <a href="https://public.tableau.com/app/profile/ivy.kepiro/vizzes" target="_blank">Tableau</a>
+- <a href="https://dune.com/kukumaster" target="_blank">Dune Analytics</a>
 - <a href="https://flipsidecrypto.xyz/ivy-k/dashboards" target="_blank">Flipside Crypto</a>
 - <a href="https://analysing-scam-patterns-in-ethereum-transactions.streamlit.app/" target="_blank">Streamlit: Ethereum Scam Patterns</a>
 
